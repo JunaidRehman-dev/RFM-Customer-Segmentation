@@ -2,7 +2,7 @@
 
 A Python script that takes raw retail transaction data and sorts customers into segments (Champions, Loyal Customers, At Risk, etc.) using RFM analysis. The output is an Excel report with one row per customer.
 
-Built with pandas on the [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) dataset from the UCI Machine Learning Repository.
+Built with pandas on the [Online Retail II](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset) dataset from the UCI Machine Learning Repository.
 
 ## The problem
 
@@ -126,4 +126,4 @@ Reading the Excel file takes a little while because of its size.
 
 ## Tools
 
-Python, pandas, openpyxl
+Python, pandas
